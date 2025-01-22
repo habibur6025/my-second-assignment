@@ -646,6 +646,7 @@ footer{
 
 @media screen and (max-width:576px) {
 
+
     .menubar{
 
         max-width:390px;
@@ -655,6 +656,7 @@ footer{
         align-items: center;
         justify-content: center;
         
+        overflow-x: hidden;
         
         }
         
@@ -718,6 +720,7 @@ footer{
     main{
         max-width: 390px;
         margin: 0 auto;
+        overflow-x: hidden;
         
     }
     .supar{
@@ -774,6 +777,7 @@ footer{
     .pro{
         max-width: 390px;
         margin: 0 auto;
+        overflow-x: hidden;
     }
     .card-info{
         max-width: 358px;
@@ -813,6 +817,7 @@ footer{
     .full-story{
         max-width:390px;
         margin: 0 auto;
+        overflow-x: hidden;
         
     }
     
@@ -965,6 +970,7 @@ font-size: 1.25rem;
         max-width: 390px;
         margin: 0 auto;
         height:700px;
+        overflow-x: hidden;
     }
 
     .foot{
